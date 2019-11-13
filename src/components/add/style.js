@@ -14,8 +14,8 @@ border: solid 2px;
  }
 label{
 
-font-weight:500px;
-font-size:30px;
+font-weight:400px;
+font-size:25px;
 }
 `}</style>
 );

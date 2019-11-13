@@ -51,7 +51,11 @@ width:20px;
 height:20px;
 color:white;
 }
+.btn-danger{
 
+height:37.5px;
+}
 
     `}</style>
 );
+
